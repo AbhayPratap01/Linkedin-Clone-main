@@ -4,7 +4,7 @@ This repository hosts the source code for a LinkedIn clone built with Next.js, T
 
 ## Demo
 
-- Live Preview: [[https://linkedin-clone-by-shan.vercel.app/](https://linkedin-clone-main-one.vercel.app/)]
+- Live Preview: [[Link](https://linkedin-clone-main-one.vercel.app/)]
 
 ## Features
 
